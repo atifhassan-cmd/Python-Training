@@ -10,3 +10,8 @@ df['name']
 df['age']
 df.head(1)
 len(df)
+
+
+
+
+
